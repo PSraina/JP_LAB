@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class exp1_employee {
     public static void main (String [] args) {
-        double sal, hra, da, cca = 240, pf, pt = 100, gross, net;
+        double sal, hra, da, cca = 420, pf, pt = 500, gross, net;
         String empname;
         int empno;
 
