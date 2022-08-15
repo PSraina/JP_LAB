@@ -20,6 +20,7 @@ public class exp1_employee {
         gross = hra + da + sal + pf + cca;
         net = gross - pf - pt;
 
+        System.out.println("Final Status: ");
         System.out.println("Gross Salary: "+gross);
         System.out.println("Net Salary: "+net);
 
